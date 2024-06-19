@@ -42,7 +42,7 @@ const [show, setShow] = useState(false)
   return (
     <>
       <section>
-        <Loading />
+        {/* <Loading /> */}
         <div className=" ">
           <div className="w-full max-w-md mx-auto md:max-w-sm md:px-0 md:w-96 sm:px-4">
             <div className="flex flex-col"></div>
