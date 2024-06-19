@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+body{
+  
+  background-color: #e8e8e8;
+}
+@media (min-width: 1024px){
+  body{
+    
+  }
+}
